@@ -1,2 +1,2 @@
-# inkdrop-dont-need-notebooks
-If you don't need multiple Notebooks in Inkdrop, this plugin will hide them
+# (I) don't need Notebooks
+Make Inkdrop more minimal by hiding the notebooks functionality if you don't use it.
