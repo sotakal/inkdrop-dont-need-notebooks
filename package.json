@@ -1,0 +1,13 @@
+{
+  "name": "dont-need-notebooks",
+  "main": "./lib/dont-need-notebooks",
+  "version": "0.0.0",
+  "description": "If you don't need multiple Notebooks in Inkdrop, this plugin will hide them.",
+  "keywords": [],
+  "repository": "https://github.com/sotakal/dont-need-notebooks",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {}
+}

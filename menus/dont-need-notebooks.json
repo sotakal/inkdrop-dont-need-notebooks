@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".note-list-bar-item .note-list-item-view": [
+      {
+        "label": "Move to Notebook..",
+        "visible": false
+      }
+    ]
+  }
+}
